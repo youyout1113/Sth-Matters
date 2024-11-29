@@ -11,10 +11,14 @@
             "id": "b548e3f49761ff1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【9 - 艺术类】/990 - 游艺及休闲活动/游戏/一起来捉妖.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "一起来捉妖"
             }
           }
         ]
@@ -29,7 +33,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 24.03846153846154,
+        "dimension": 63.97379912663755,
         "children": [
           {
             "id": "7569597966c86526",
@@ -37,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#6-文化艺术/5-文化娱乐/游戏",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -45,7 +49,7 @@
                 "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -63,7 +67,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 75.96153846153847,
+        "dimension": 36.02620087336245,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -74,7 +78,7 @@
                 "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           }
         ]
@@ -120,7 +124,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -146,15 +150,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "b548e3f49761ff1a",
   "lastOpenFiles": [
+    "【文章目录】/【9 - 艺术类】/990 - 游艺及休闲活动/游戏/游戏的意义.md",
+    "【文章目录】/【9 - 艺术类】/990 - 游艺及休闲活动/游戏/开挂.md",
+    "【文章目录】/【9 - 艺术类】/990 - 游艺及休闲活动/游戏/苦中苦.md",
+    "【文章目录】/【7 - 世界史地】/730 - 亚洲史地/731 - 日本/日式.md",
+    "【文章目录】/【4 - 应用科学】/470 - 制造/大聪明.md",
+    "【文章目录】/【4 - 应用科学】/480 - 商业/老年玩具.md",
+    "【文章目录】/AI服务 - 素问SOOON.AI/可信的ai服务.md",
+    "【文章目录】/【3 - 自然科学】/300 - 科学总论/论科学/科学信仰.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理/立志/宏大叙事.md",
+    "【文章目录】/【1 - 哲学类】/170 - 心理学/177 - 临床心理学/对抗抑郁/AAL IZZ WELL.md",
+    "【文章目录】/【1 - 哲学类】/120 - 中国哲学/远庖厨.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/160 - 形而上学总论/论学习/博.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/160 - 形而上学总论/论学习/做笔记.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/161 - 知识论/公网质量.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/161 - 知识论/悬梁刺股.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/160 - 形而上学总论/论学习/帝王蟹.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/160 - 形而上学总论/论学习/发奋读书.md",
+    "【文章目录】/【1 - 哲学类】/100 - 哲学总论/论哲学/低级诡辩.md",
+    "_附件/Screen Shot 2022-06-10 at 19.46.07.png",
+    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
+    "_附件/Screenshot 2023-11-09 at 18.31.29.png",
+    "_附件/Screenshot 2023-11-09 at 18.33.35.png",
+    "_附件/Screen Shot 2022-06-10 at 19.46.01.png",
     "【文章目录】/【10 - 专题类】/杂论/取名 - 牛姓.md",
     "【文章目录】/【4 - 应用科学】/420 - 家政/428 - 育儿/取名 2.md",
     "【文章目录】/【4 - 应用科学】/420 - 家政/428 - 育儿/取名 1.md",
@@ -163,24 +190,6 @@
     "【文章目录】/【7 - 世界史地】/740 - 欧洲史地/748 - 俄罗斯/大数定理.md",
     "【文章目录】/【1 - 哲学类】/160 - 形而上学/165 - 价值论/世界观/多事.md",
     "【文章目录】/【5 - 社会科学】/590 - 军事/595 - 军事技术/军事兵器/热兵器/军舰/和平精英.md",
-    "【文章目录】/【4 - 应用科学】/490 - 商学/494 - 企业管理/白得罪.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/态度与伦理/流言蜚语.md",
-    "【文章目录】/【6 - 中国史地】/630 - 中国文化史/儒道.md",
-    "待归档/什么自信.md",
-    "待归档/没家教和不礼貌.md",
-    "待归档/大麻烦.md",
-    "摘抄本/句子摘录.md",
-    "README.md",
-    "【本周更新】/纯粹感性批判.md",
-    "摘抄本/比喻摘录.md",
-    "【本周更新】/无可妥协.md",
-    "【本周更新】/白加黑.md",
-    "【本周更新】/祝融游戏.md",
-    "【本周更新】/经久不衰.md",
-    "【本周更新】/轨道爬升.md",
-    "【本周更新】/问道于盲.md",
-    "md/2024-11-14什么是文字的张力？.md",
-    "【文章目录】/【8 - 语言文学类】/810 - 文学总论/文字张力.md",
     "md",
     "Untitled.canvas",
     "md/Nel",
@@ -194,13 +203,8 @@
     "爱发电/会员专享",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
     "转载授权/2-授权条款更新.png",
-    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "_附件/Screen Shot 2022-06-10 at 19.46.07.png",
-    "_附件/Screen Shot 2022-06-10 at 19.46.01.png",
     "待移除/_附件/Screen Shot 2022-06-10 at 19.46.07.png",
     "待移除/_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.12.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.21.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.27.png"
+    "待移除/_附件/Screenshot 2022-12-31 at 07.25.12.png"
   ]
 }
