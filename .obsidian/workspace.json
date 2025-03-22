@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "1dc2adf8f2a22eb2",
+    "id": "c32063cb3528e459",
     "type": "split",
     "children": [
       {
-        "id": "abd14c75990d954f",
+        "id": "9a038afe6b74e66f",
         "type": "tabs",
         "children": [
           {
-            "id": "d6d6b1069015a093",
+            "id": "0708373ab14beb6f",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "新标签页"
             }
           }
         ]
@@ -23,33 +23,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f853fe69b3f3116",
+    "id": "ef83e7a08d51fae5",
     "type": "split",
     "children": [
       {
-        "id": "dedad4a52aa87962",
+        "id": "6eae62b0ea8ed496",
         "type": "tabs",
         "children": [
           {
-            "id": "3b765c59d937b6ed",
+            "id": "89007aaedf4a1d93",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
-            "id": "1eba10c9284bdced",
+            "id": "794f49f72a8728de",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#5-社会科学",
+                "query": "贪爱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,17 +57,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
-            "id": "ef5f7c44ec6eebba",
+            "id": "b7bd22442fdf2b47",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ],
@@ -75,25 +75,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 300
   },
   "right": {
-    "id": "debe967820645286",
+    "id": "6595032effadbad0",
     "type": "split",
     "children": [
       {
-        "id": "c19ff72d00a2eabb",
+        "id": "b8a093a1461ebe2c",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ae2f1ea9b5c49a",
+            "id": "f739c4b251ab4f0b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/致你们.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理/修养/温柔.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -101,26 +101,26 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 致你们"
+              "title": "温柔 的反向链接列表"
             }
           },
           {
-            "id": "55f035b582ef7553",
+            "id": "d03c4a343c8c22a1",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
-            "id": "e1d81c3f5c2852a5",
+            "id": "0f8a746657d11582",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -130,67 +130,29 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "添加笔记属性"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "1eba10c9284bdced",
+  "active": "0708373ab14beb6f",
   "lastOpenFiles": [
-    "【本周更新】/海上水.md",
-    "【本周更新】/SOP 2.md",
-    "沙海拾金/文章相关讨论/评论区_SOP.md",
-    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论计划/SOP 1.md",
-    "【本周更新】/3000公里防空圈.md",
-    "【本周更新】/上交绞索.md",
-    "【本周更新】/谢婆婆.md",
-    "【文章目录】/【4 - 应用科学】/420 - 家政/421 - 家庭经济 & 管理/家庭理财/绝户计.md",
-    "【本周更新】/扒钞票.md",
-    "【本周更新】/大绑架.md",
-    "【本周更新】/被扼杀的人才.md",
-    "【本周更新】/和平麦当劳.md",
-    "【本周更新】/年入几百万.md",
-    "【本周更新】/哗众取宠.md",
-    "【本周更新】/免俗.md",
-    "【本周更新】/女用电钻.md",
-    "【本周更新】/红旗下的蛋.md",
-    "【本周更新】/LG杯.md",
-    "【本周更新】/蛟龙行动.md",
-    "【本周更新】/非议.md",
-    "【本周更新】/天下第一.md",
-    "【本周更新】/高额抚养费.md",
-    "【本周更新】/阿尔弗雷德.md",
-    "【本周更新】/外戚当权.md",
-    "待归档/满门忠烈.md",
-    "待归档/提子规则.md",
-    "md",
-    "转载授权/【中图法】茶芒 - 知乎 2.pdf",
-    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "_附件/Screenshot 2023-11-09 at 18.33.35.png",
-    "_附件/Screenshot 2022-12-02 at 11.01.55 2.png",
-    "_附件/Screenshot 2023-11-09 at 18.31.29 2.png",
-    "_附件/Screenshot 2023-11-09 at 18.33.35 2.png",
-    "转载授权/1-鼓励利用我的内容盈利.jpeg",
-    "转载授权/1-鼓励利用我的内容盈利 2.jpeg",
-    "转载授权/2-授权条款更新.png",
-    "转载授权/2-授权条款更新 2.png",
-    "md/N",
-    "待更新/【本周更新】",
-    "待更新",
-    "untitled folder"
+    "沙海拾金/文章相关讨论/评论区_贪爱相生.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原理/贪爱相生.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理/修养/温柔.md"
   ]
 }
